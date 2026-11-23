@@ -3,6 +3,11 @@
 **Plugin for CiSkeleton** that provides a unified, consistent interface for embedding media from popular providers via [oEmbed](https://oembed.com/) endpoints.
 
 <p align="center">
+  <a href="https://github.com/ciskeleton/plugin-oembed/releases"><img src="https://img.shields.io/github/v/release/ciskeleton/plugin-oembed?label=release" alt="Release"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/ciskeleton/plugin-oembed" alt="Licence: MIT"></a>
+</p>
+
+<p align="center">
   <img src="./main/preview.jpg" alt="OEmbed — Media Embedding" />
 </p>
 
